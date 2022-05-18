@@ -1,4 +1,4 @@
-sectors,  Return on Equity %,Annual EPS, unlevered Free Cash Flow annual change,  Dividend per Share,  Net Income Margin %,CPI index,GDP,10-year treasury,direction
+sectors,  ROE,EPS, FCF,  Dividend, Income Margin,CPI index,GDP,10-year treasury,direction
 Automotive,0,1.66,14.90%,0,5.10%,221.3358333,150,149.9205273,small up
 Automotive,280.30%,4.94,3.80%,0,14.90%,225.0064167,155,155.425811,big down
 Automotive,35.80%,1.41,-1.90%,0,4.20%,229.7568333,162,161.9700735,big up
